@@ -1,0 +1,15 @@
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\bin\Debug\net6.0\SimpleGeometryCalc.exe
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\bin\Debug\net6.0\SimpleGeometryCalc.deps.json
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\bin\Debug\net6.0\SimpleGeometryCalc.runtimeconfig.json
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\bin\Debug\net6.0\SimpleGeometryCalc.dll
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\bin\Debug\net6.0\SimpleGeometryCalc.pdb
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.csproj.AssemblyReference.cache
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.AssemblyInfoInputs.cache
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.AssemblyInfo.cs
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.dll
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\refint\SimpleGeometryCalc.dll
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.pdb
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\SimpleGeometryCalc.genruntimeconfig.cache
+C:\Users\Freddy\Desktop\CSharp TreeHouse Workplace\Projects\SimpleGeometryCalc\obj\Debug\net6.0\ref\SimpleGeometryCalc.dll
